@@ -1,0 +1,3 @@
+0 Amaizing
+1 Meh
+2 Bad
